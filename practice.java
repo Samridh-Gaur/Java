@@ -136,10 +136,10 @@ public class practice
         // for (int i : arr) {
         //     System.out.println(i);
         // }
-        String s1 = "first";
-        s1 = s1 + "second";
-        System.out.println(s1);
+        // String s1 = "first";
+        // s1 = s1 + "second";
+        // System.out.println(s1);
 
-
+        Learned Strings
     }
 }
