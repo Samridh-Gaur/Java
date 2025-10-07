@@ -140,6 +140,23 @@ public class practice
         // s1 = s1 + "second";
         // System.out.println(s1);
 
-        Learned Strings
+        // Learned Strings
+        
+        // for(int i =1;i<11;i++)
+        // {
+        //     System.out.println(i);
+        // }
+
+        // int i = 1;
+        // while(i<11)
+        // {
+        //     System.out.println(i);
+        //     i++;
+        // }
+
+
+        do {
+            System.out.println("teri dash dash");
+        } while (true);
     }
 }
