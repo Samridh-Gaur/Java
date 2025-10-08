@@ -3,9 +3,7 @@ public class First
     static int a = 99; //This is the static variable
     public static void main(String[] args) 
     {
-       System.out.println("Your number is " +First.a);
-       a = 200;
-       System.out.println("Now the number is " +First.a);
+       System.out.println(First.a);
     }
 }
 
