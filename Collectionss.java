@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Scanner;
 
 public class Collectionss 
@@ -84,10 +85,19 @@ public class Collectionss
         // The program should keep running until the user chooses to exit.
 
 
-        while (true) 
-        {
-            
-        }
+        // while (true) 
+        // {
+
+            // System.out.println("Add a new task");
+            // ArrayList<String> list = new ArrayList<>();
+            // list.add("samridh");
+            // list.add("roshit");
+            // Scanner sc = new Scanner(System.in);
+            // list.add(sc.nextLine());
+            // System.out.println("Enter the index to remove the task");
+            // list.remove(sc.nextInt());
+            // System.out.println(list);
+        // }
 
 
 
@@ -144,6 +154,9 @@ public class Collectionss
 
 
         // The program should loop until the user chooses to exit.
+
+
+        
 
 
         // Question 4:
