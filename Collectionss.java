@@ -190,6 +190,6 @@ public class Collectionss
 
 
         // The program should ignore case differences (e.g., "Java" and "java" should be considered the same word).
-
+        
     }
 }
