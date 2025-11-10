@@ -58,9 +58,12 @@ class samridh
 
 class samarth extends samridh
 {
-    public static void main(String[] args) 
+    samarth()
     {
-        samarth sam = new samarth();
-        System.out.println("main class of samarth");
+        super();
+        System.out.println("samarth cons");
+        
     }
+
+    
 }
